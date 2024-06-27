@@ -1,0 +1,24 @@
+{
+    "autosave": true,
+    "cpu": {
+        "enabled": true,
+        "priority": null,
+        "memory-pool": false,
+        "yield": true
+    },
+    "donate-level": 1,
+    "log-file": null,
+    "pools": [
+        {
+            "algo": "rx/0",
+            "coin": null,
+            "url": "tr.zephyr.herominers.com:1123",
+            "user": "YOUR_WALLET_ADDRESS",
+            "pass": "x",
+            "rig-id": "YOUR_RIG_ID",
+            "nicehash": false,
+            "keepalive": true,
+            "enabled": true
+        }
+    ]
+}
